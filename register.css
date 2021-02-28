@@ -1,0 +1,42 @@
+html {
+    background: #ab9de4;
+}
+
+body {
+    background: #ab9de4;
+    text-align: center;
+    color: #ffffff;
+    font-family: Gill Sans, sans-serif;
+    font-size: 25px;
+}
+.head {
+    background: #ab9de4;
+    text-align: center;
+    color: #ffffff;
+    font-family: Gill Sans, sans-serif;
+    font-size: 70px;
+}
+.button {
+  background-color: #808080;
+  border: none;
+  color: white;
+  padding: 8px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin: 3px 2px;
+  cursor: pointer;
+}
+.text{
+  background-color: #cccccc;
+  border: none;
+  color: black;
+  padding: 8px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin: 3px 2px;
+  cursor: pointer;
+}
